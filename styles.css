@@ -134,4 +134,9 @@ body {
     .contact-form button:hover {
         background-color: #cc5500;
     }
+    .feature img {
+        max-width: 80px; /* Ajusta o tamanho para telas pequenas */
+        height: auto;
+    }
+    
 }
